@@ -1,0 +1,29 @@
+img {
+    position: absolute;
+}
+.container {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+#rightSide {
+    left: 720px;
+    border-left: 2px solid;
+}
+body {
+    background-color: darkblue;
+}
+
+div {
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    color: mintcream;
+    font-size: 1rem;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4.5rem;  
+    background-color: white;
+}
